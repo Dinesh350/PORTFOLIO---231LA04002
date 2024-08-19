@@ -9,14 +9,14 @@ body {
     font-family: 'Poppins', sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f5f7fa;
+    background-color: #141414;
     color: #333;
     line-height: 1.6;
 }
 
 /* Navigation Styles */
 nav {
-    background-color: #34495e;
+    background-color: #443b88;
     color: white;
     padding: 15px 0;
     text-align: center;
@@ -201,9 +201,7 @@ footer {
     background-color: #ecf0f1;
     padding: 6px; 
     border-radius: 8px; 
-    /* width: 100%;
-    max-width: 600px; /* Adjust as needed */
-    /* overflow: hidden; */ 
+    
 }
 
 .card:hover {
